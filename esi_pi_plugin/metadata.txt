@@ -1,0 +1,14 @@
+[general]
+name=ESI PI Mapper
+qgisMinimumVersion=3.34
+description=Environmental Sensitivity Index / Priority Index mapping plugin
+version=0.1.0
+author=Codex Assistant
+email=dev@example.com
+about=Builds weighted ESI/PI rasters from vector layers, then polygonizes and simplifies output.
+category=Raster
+icon=icon.svg
+experimental=True
+deprecated=False
+tracker=
+repository=
