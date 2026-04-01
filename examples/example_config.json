@@ -1,0 +1,25 @@
+{
+  "buffer_m": 200,
+  "resolution_m": 30,
+  "simplify_m": 5,
+  "rows": [
+    {
+      "layer_name": "shoreline_habitats",
+      "index_field": "ESI",
+      "weight": 0.5,
+      "group": "ecology"
+    },
+    {
+      "layer_name": "settlements",
+      "index_field": "PI",
+      "weight": 0.3,
+      "group": "social"
+    },
+    {
+      "layer_name": "protected_areas",
+      "index_field": "ESI",
+      "weight": 0.2,
+      "group": "policy"
+    }
+  ]
+}
